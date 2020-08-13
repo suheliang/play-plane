@@ -1,7 +1,7 @@
 {
   "name": "play-plane",
   "version": "1.0.0",
-  "description": "",
+  "description": "飞机大战小游戏",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
